@@ -1,6 +1,6 @@
-# treehouse-algorithms-and-data-structures
+# Treehouse Algorithms and Data Structures
 
-These are my notes from a treehouse called [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://youtu.be/8hly31xKli0)
+These are my notes from a treehouse course called [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://youtu.be/8hly31xKli0)
 
 
 ## Index of video content
