@@ -1,4 +1,13 @@
 def binary_search(list, target):
+    """[summary]
+    this is an iterative solution
+    Args:
+        list ([type]): [description]
+        target ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """
     first = 0 # first value on the list
     last = len(list) - 1 # last value on the list
     
