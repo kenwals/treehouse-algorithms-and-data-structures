@@ -3,7 +3,7 @@ def binary_search(list, target):
     last = len(list) - 1 # last value on the list
     
     while first <= last:
-        midpoint = (first + last)//2  # floor givision to get whole values
+        midpoint = (first + last)//2  # floor division to get whole values
         
         if list[midpoint] == target:
             return midpoint
@@ -16,7 +16,7 @@ def binary_search(list, target):
 
 def verify(index):
     if index is not None:
-        print("Taget found at index: ", index)
+        print("Target found at index: ", index)
     else:
         print("Target not found in list")
 

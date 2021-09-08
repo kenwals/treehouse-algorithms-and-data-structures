@@ -13,7 +13,7 @@ def linear_search(list, target):
 
 def verify(index):
     if index is not None:
-        print("Taget found at index: ", index)
+        print("Target found at index: ", index)
     else:
         print("Target not found in list")
 
