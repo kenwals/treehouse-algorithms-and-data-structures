@@ -2,8 +2,49 @@
 
 These are my notes from a treehouse course called [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://youtu.be/8hly31xKli0)
 
+## ⭐️ Course Contents ⭐️
 
-## Index of video content
+⌨️ (0:00:00) Introduction to Algorithms ✅ on Sep 11th 2021
+
+⌨️ (1:57:44) Introduction to Data Structures
+
+⌨️ (4:11:02) Algorithms: Sorting and Searching
+
+### ⭐️ Code Snippets for Course ⭐️
+
+💻 Introduction to Algorithms:
+⌨️ Algorithms in Code:
+🔗 Linear Search Implementations: https://teamtreehouse.com/library/int...
+🔗 Binary Search Implementations: https://teamtreehouse.com/library/int...
+
+💻 Introduction to Data Structures
+⌨️ Exploring Arrays:
+🔗 Array Characteristics and Storage: https://teamtreehouse.com/library/int...
+🔗 Operations on Arrays: https://teamtreehouse.com/library/int...
+
+⌨️ Building a Linked List:
+🔗 Singly and Doubly Linked Lists: https://teamtreehouse.com/library/int...
+🔗 Linked List Operations: https://teamtreehouse.com/library/int...
+
+⌨️ The Merge Sort Algorithm:
+🔗 Merge Sort Implementations: https://teamtreehouse.com/library/int...
+🔗 Alternate Versions of Merge Sort: https://teamtreehouse.com/library/int... 
+
+⌨️ Merge Sort and Linked Lists:
+🔗 Implementing Merge Sort on Linked Lists: https://teamtreehouse.com/library/int...
+
+💻 Algorithms: Sorting and Searching
+⌨️ Sorting Algorithms:
+🔗 Code for Bogosort: https://teamtreehouse.com/library/alg...
+🔗 Code for Selection Sort: https://teamtreehouse.com/library/alg...
+🔗 Code for Quicksort: https://teamtreehouse.com/library/alg...
+🔗 Code for Merge Sort: https://teamtreehouse.com/library/alg...
+
+⌨️ Searching Names:
+🔗 Code for Linear Search: https://teamtreehouse.com/library/alg...
+🔗 Code for Binary Search: https://teamtreehouse.com/library/alg...
+
+## ⭐️ Index of video content ⭐️
 
 - Introduction to Algorithms
 
