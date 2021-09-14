@@ -1,3 +1,6 @@
+from typing import Counter
+
+
 class Node:
     """
     an object for storing a single node of a linked list.
@@ -37,3 +40,55 @@ class LinkedList:
             current = current.next_node
         
         return count
+
+    def add(self, data):
+        """
+        adds a new node containing data at the head of the list
+        Take contant time - 0(1) 
+
+        Args:
+            data ([type]): [description]
+        """
+        new_node = Node(data)
+        new_node.next_node = self.head
+        self.head =  new_node
+
+    def search(self, key):
+        """
+        Search for the first node that contains data that matches the key
+        
+        Takes linear time - 0(n)
+        Args:
+            key ([type]): [description]
+
+        Returns:
+            the node or none if not find
+        """
+        current = self.head
+        while current:
+            if current.data == key:
+                return current
+            else:
+                current = current.next_node
+        return None
+
+    def __repr__(self):
+        """
+        Returns a string representation of the list
+        Takes linear time - 0(n)
+        """
+        
+        nodes = []
+        current = self.head
+        
+        while current:
+            if current is self.head:
+                nodes.append("[Head: %s]" % current.data)
+            elif current.next_node is None:
+                nodes.append("[Tail: %s]" % current.data)
+            else:
+                nodes.append("[%s]" % current.data)
+        
+            current = current.next_node
+        return '-> '.join(nodes)
+
