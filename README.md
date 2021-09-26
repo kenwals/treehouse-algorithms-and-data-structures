@@ -6,7 +6,7 @@ These are my notes from a treehouse course called [Algorithms and Data Structure
 
 ⌨️ (0:00:00) Introduction to Algorithms ✅ on Sep 11th 2021
 
-⌨️ (1:57:44) Introduction to Data Structures
+⌨️ (1:57:44) Introduction to Data Structures ✅ on Sep 26th 2021
 
 ⌨️ (4:11:02) Algorithms: Sorting and Searching
 
