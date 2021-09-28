@@ -8,7 +8,7 @@ These are my notes from a treehouse course called [Algorithms and Data Structure
 
 ⌨️ (1:57:44) Introduction to Data Structures ✅ on Sep 26th 2021
 
-⌨️ (4:11:02) Algorithms: Sorting and Searching
+⌨️ (4:11:02) Algorithms: Sorting and Searching ✅ on Sep 28th 2021
 
 ### ⭐️ Code Snippets for Course ⭐️
 
